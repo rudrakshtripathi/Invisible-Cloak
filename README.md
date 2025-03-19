@@ -13,8 +13,8 @@ Step into the magical world of invisibility! Inspired by the iconic invisibility
 # 🛠️ Installation
 1. Clone this repository:
 ```bash
-  git clone https://github.com/yourusername/invisible-cloak.git
-  cd invisible-cloak
+    git clone https://github.com/yourusername/invisible-cloak.git
+    cd invisible-cloak
 ```
 2. Install the required packages:
    ```bash
